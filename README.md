@@ -7,8 +7,7 @@
 ---
 
 ## 🔍 About Me
-- Engineering student focused on **Data Science, AI, and full-stack development**.  
-- Passionate about **entrepreneurship** and building MVPs (currently exploring **RentUp**).  
+- Engineering student focused on **Data Science, AI, and full-stack development**.    
 - Creating educational content on **AI/ML, coding, and tech lifestyle** on Instagram.  
 - Interested in **RAG chatbots**, **analytics dashboards**, and **deployment best practices** (Railway, Netlify, Docker).  
 - Believer in **learning by building** and sharing knowledge with the community.  
@@ -24,7 +23,6 @@
 ---
 
 ## 🚀 Featured Projects
-- 📱 **RentUp (MVP)** – Rental marketplace idea connecting people with items & vehicles.  
 - 🤖 **AI Chatbot** – Knowledge-base assistant using RAG (retrieval-augmented generation).  
 - 📊 **Community Dashboards** – Analytics + clean UX for managing memberships.  
 - 🌐 **Web Platforms** – Websites & dashboards for schools, students, and startups.  
